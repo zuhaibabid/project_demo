@@ -1,4 +1,4 @@
 # project_demo
 this is my first project
 <br>
-Author- zuhaib Abid  (Mother )
+Author- zuhaib Abid  (father)
